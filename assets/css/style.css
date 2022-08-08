@@ -22,3 +22,20 @@
 .box7{
     background:SkyBlue;
 }
+video.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+P { text-align: center }
+H2 { text-align: center }  
+H3 { text-align: center }
+H1 { text-align: center } 
+img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto } 
+table {
+width: 250px; /* Ширина таблиці */
+border: 2px solid bleck; /* Рамка навколо таблиці */
+margin: auto; /* Вирівнюємо таблицю по центру вікна */
+}
