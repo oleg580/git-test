@@ -26,16 +26,36 @@ video.displayed {
     display: block;
     margin-left: auto;
     margin-right: auto }
-P { text-align: center }
-H2 { text-align: center }  
-H3 { text-align: center }
-H1 { text-align: center } 
+P { 
+    text-align: center 
+ }
+H2 {  
+    text-align: center  
+}  
+H3 { 
+     text-align: center 
+     }
+H1 {  
+    text-align: center  
+} 
 img.displayed {
     display: block;
     margin-left: auto;
-    margin-right: auto } 
+    margin-right: auto }  
+
+
+
 table {
 width: 250px; /* Ширина таблиці */
 border: 2px solid bleck; /* Рамка навколо таблиці */
 margin: auto; /* Вирівнюємо таблицю по центру вікна */
+} 
+p.italic {
+    font-style: italic;
+} 
+p.italic {
+    font-size: 40px;
+} 
+p.italic {
+    color:blue
 }
